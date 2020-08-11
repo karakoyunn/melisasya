@@ -110,3 +110,8 @@ a {
   width: 30%;
   margin: auto;
 }
+
+.drawings {
+  height: 600px;
+  width: 1000px;
+}
